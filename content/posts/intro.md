@@ -9,4 +9,3 @@ En lo personal un buen programador deberia contar con las siguientes cualidades:
 -Dedicación
 -Respeto
 -Honestidad
-
